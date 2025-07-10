@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Surya Prakash
 
 🎯 Java Developer | Full Stack Web & Desktop App Developer   
-📍 Madurai, Tamil Nadu | 📧 suryamdk5@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/suryamdk5)
+📍 Madurai, Tamil Nadu | 📧 suryamdk5 [@] gmail [.] com | 💼 [LinkedIn](https://linkedin.com/in/suryamdk5)
 
 ---
 
